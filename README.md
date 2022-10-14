@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋+I'm+Michael+Jung;Full Stack+Software+Engineer)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=C9D1D9&vCenter=true&width=435&lines=Hey+there,+I'm+Michael+Jung;Full+Stack+Software+Engineer)](https://git.io/typing-svg)
 
 ## ⚙️ Technologies
 
@@ -23,7 +23,7 @@
 ## 💹 Github Stats
 
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelhjung&count_private=true&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelhjung)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelhjung&count_private=true&langs_count=6&show_icons=true&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **michaelhjung/michaelhjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
