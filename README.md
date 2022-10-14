@@ -20,10 +20,13 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jung.michaelh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-h-jung/)
 
-## 💹 Github Stats
+## 📈 Github Stats
 
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelhjung&count_private=true&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelhjung&count_private=true&langs_count=6&show_icons=true&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelhjung&count_private=true&langs_count=6&show_icons=true&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
 
 <!--
 **michaelhjung/michaelhjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
