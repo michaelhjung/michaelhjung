@@ -1,5 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&size=30&pause=1000&color=2A628F&vCenter=true&width=500&lines=Hey+there,+I'm+Michael+Jung;Full+Stack+Software+Engineer)](https://git.io/typing-svg)
 
+I am a UC Berkeley alumni and former Master's degree prepared nurse turned developer.
+
 ## ⚙️ Languages & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,nodejs,react,redux,express,flask,html,css,postgres,sqlite,heroku)](https://skillicons.dev)
