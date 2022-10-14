@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&size=36&pause=1000&color=2A628F&vCenter=true&width=500&lines=Hey+there,+I'm+Michael+Jung;Full+Stack+Software+Engineer)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&size=30&pause=1000&color=2A628F&vCenter=true&width=500&lines=Hey+there,+I'm+Michael+Jung;Full+Stack+Software+Engineer)](https://git.io/typing-svg)
 
 ## ⚙️ Technologies
 
