@@ -1,6 +1,37 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&size=30&pause=1000&color=2A628F&vCenter=true&width=500&lines=Hey+there,+I'm+Michael+Jung;Full+Stack+Software+Engineer)](https://git.io/typing-svg)
 
-I am a UC Berkeley alumni and Master's degree prepared nurse turned developer. I love creating apps with React! My hobbies include video editing and custom mechanical keyboards :)
+```js
+class SoftwareEngineer {
+    constructor(name, position, location) {
+        this.name = name;
+        this.position = position;
+        this.location = location;
+    }
+
+    greeting() {
+        console.log("Hey there! Thanks for dropping by!");
+    }
+
+    briefBackground() {
+        console.log(
+            `I'm a University of California, Berkeley alumnus & Master's degree prepared nurse turned Software Engineer,
+            based in the ${this.location}. I'd love to chat over a cup of ☕.`
+        );
+    }
+
+    currKbdSetup() {
+        console.log("I currently use a Zoom65 with lubed Alpacas and TX stabs. Would love to try out a Kohaku!");
+    }
+}
+
+
+const me = new SoftwareEngineer('Michael Jung', 'Software Engineer', 'SF Bay Area');
+me.greeting();
+
+
+if (user === recruiter) me.briefBackground();
+if (user === kbdEnthusiast) me.currKbdSetup();
+```
 
 ## ⚙️ Languages & Tools
 
