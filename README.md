@@ -14,7 +14,7 @@ class SoftwareEngineer {
 
     briefBackground() {
         console.log(
-            `I'm a University of California, Berkeley alumnus & Master's degree prepared nurse turned Software Engineer,
+            `I'm a University of California, Berkeley alumnus & Master's-prepared nurse turned Software Engineer,
             based in the ${this.location}. I'd love to chat over a cup of ☕.`
         );
     }
@@ -29,8 +29,8 @@ const me = new SoftwareEngineer('Michael Jung', 'Software Engineer', 'SF Bay Are
 me.greeting();
 
 
-if (user === recruiter) me.briefBackground();
-if (user === kbdEnthusiast) me.currKbdSetup();
+if (user.role === "recruiter") me.briefBackground();
+if (user.hobbies.includes("keyboard enthusiast")) me.currKbdSetup();
 ```
 
 ## ⚙️ Languages & Tools
