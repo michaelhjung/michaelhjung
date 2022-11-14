@@ -41,33 +41,11 @@ if (user.hobbies.includes("keyboard enthusiast")) me.currKbdSetup();
 [![My Skills](https://skillicons.dev/icons?i=js,py,nodejs,react,redux,express,flask,html,css,postgres,sqlite,heroku)](https://skillicons.dev)
 
 </div>
-    
-
-## ✉️ Contact Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jung.michaelh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-h-jung/)
-[![Angellist](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white)](https://angel.co/u/michaelhjung)
-    
-</div>
-    
-    
-## 📈 Github Stats
-
-<div align="center">
-
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelhjung&count_private=true&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=michaelhjung&theme=dark)](https://git.io/streak-stats)
-
-![](https://komarev.com/ghpvc/?username=michaelhjung&style=for-the-badge)
-
-</div>
 
 
 ## 💼 Recent Projects
+
+<div align="center">
 
 <details>
 <summary>Hatch, a virtual escape room</summary>
@@ -94,6 +72,31 @@ if (user.hobbies.includes("keyboard enthusiast")) me.currKbdSetup();
 [![Carebnb](https://i.imgur.com/vHobxth.jpg)](https://carebnb-2022.herokuapp.com/)
 
 </details>
+
+</div>
+
+## ✉️ Contact Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jung.michaelh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-h-jung/)
+[![Angellist](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white)](https://angel.co/u/michaelhjung)
+    
+</div>
+    
+    
+## 📈 Github Stats
+
+<div align="center">
+
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelhjung&count_private=true&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=michaelhjung&theme=dark)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=michaelhjung&style=for-the-badge)
+
+</div>
 
 
 <!--
