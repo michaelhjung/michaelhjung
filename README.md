@@ -32,31 +32,31 @@ me.greeting();
 if (user.role === "recruiter") me.briefBackground();
 if (user.hobbies.includes("keyboard enthusiast")) me.currKbdSetup();
 ```
+ 
 
 ## ⚙️ Languages & Tools
 
+<div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=js,py,nodejs,react,redux,express,flask,html,css,postgres,sqlite,heroku)](https://skillicons.dev)
 
-<!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)  -->
+</div>
+    
 
 ## ✉️ Contact Me
+
+<div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jung.michaelh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-h-jung/)
 [![Angellist](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white)](https://angel.co/u/michaelhjung)
-
+    
+</div>
+    
+    
 ## 📈 Github Stats
+
+<div align="center">
 
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelhjung&count_private=true&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -64,7 +64,36 @@ if (user.hobbies.includes("keyboard enthusiast")) me.currKbdSetup();
 
 ![](https://komarev.com/ghpvc/?username=michaelhjung&style=for-the-badge)
 
+</div>
 
+
+## 💼 Recent Projects
+
+<details>
+<summary>Hatch, a virtual escape room</summary>
+<br>
+
+[![Hatch](https://i.imgur.com/Fbw0f2h.gif)](https://escape-hatch.herokuapp.com/)
+
+</details>
+
+
+<details>
+<summary>Squeal, a Yelp clone</summary>
+<br>
+    
+[![Squeal](https://i.imgur.com/e75RInS.gif)](https://squeal-yelp.herokuapp.com/)
+    
+</details>
+
+
+<details>
+<summary>Carebnb, an Airbnb clone</summary>
+<br>
+
+[![Carebnb](https://i.imgur.com/vHobxth.jpg)](https://carebnb-2022.herokuapp.com/)
+
+</details>
 
 
 <!--
