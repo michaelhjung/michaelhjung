@@ -94,6 +94,8 @@ if (user.hobbies.includes("keyboard enthusiast")) me.currKbdSetup();
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=michaelhjung&theme=dark)](https://git.io/streak-stats)
 
+<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/michaelhjung?theme=dark) -->
+    
 ![](https://komarev.com/ghpvc/?username=michaelhjung&style=for-the-badge)
 
 </div>
