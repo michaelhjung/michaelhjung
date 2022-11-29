@@ -38,7 +38,7 @@ if (user.hobbies.includes("keyboard enthusiast")) me.currKbdSetup();
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,nodejs,react,redux,express,flask,html,css,postgres,sqlite,docker,heroku,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,nodejs,react,redux,express,flask,html,css,aws,postgres,sqlite,docker,heroku,git,github)](https://skillicons.dev)
 
 </div>
 
@@ -47,7 +47,7 @@ if (user.hobbies.includes("keyboard enthusiast")) me.currKbdSetup();
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=aws,go,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,swift)](https://skillicons.dev)
 
 </div>
 
