@@ -57,7 +57,7 @@ if (user.hobbies.includes("keyboard enthusiast")) me.currKbdSetup();
 <div align="center">
 
 <details>
-<summary>Hatch, a virtual escape room</summary>
+<summary>Hatch, a virtual escape room made with React and Flask</summary>
 <br>
 
 [![Hatch](https://i.imgur.com/Fbw0f2h.gif)](https://escape-hatch.herokuapp.com/)
@@ -66,7 +66,7 @@ if (user.hobbies.includes("keyboard enthusiast")) me.currKbdSetup();
 
 
 <details>
-<summary>Squeal, a Yelp clone</summary>
+<summary>Squeal, a Yelp clone collaborative project made with React and Flask</summary>
 <br>
     
 [![Squeal](https://i.imgur.com/e75RInS.gif)](https://squeal-yelp.herokuapp.com/)
@@ -75,7 +75,7 @@ if (user.hobbies.includes("keyboard enthusiast")) me.currKbdSetup();
 
 
 <details>
-<summary>Carebnb, an Airbnb clone</summary>
+<summary>Carebnb, an Airbnb clone made with React and Express</summary>
 <br>
 
 [![Carebnb](https://i.imgur.com/vHobxth.jpg)](https://carebnb-2022.herokuapp.com/)
