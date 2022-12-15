@@ -42,14 +42,14 @@ if (user.hobbies.includes("keyboard enthusiast")) me.currKbdSetup();
 
 </div>
 
-
+<!-- 
 ## ✍️ Currently Learning
 
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=java,go,swift)](https://skillicons.dev)
 
-</div>
+</div> -->
 
 
 ## 💼 Recent Projects
