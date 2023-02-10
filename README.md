@@ -95,7 +95,7 @@ if (user.hobbies.includes("keyboard enthusiast")) me.currKbdSetup();
 </div>
     
     
-## 📈 Github Stats
+<!-- ## 📈 Github Stats -->
 
 <div align="center">
 
@@ -105,6 +105,6 @@ if (user.hobbies.includes("keyboard enthusiast")) me.currKbdSetup();
 
 <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/michaelhjung?theme=dark) -->
     
-![](https://komarev.com/ghpvc/?username=michaelhjung&style=for-the-badge)
+<!-- ![](https://komarev.com/ghpvc/?username=michaelhjung&style=for-the-badge) -->
 
 </div>
