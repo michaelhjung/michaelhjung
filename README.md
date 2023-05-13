@@ -20,7 +20,7 @@ class SoftwareEngineer {
     }
 
     currKbdSetup() {
-        console.log("I currently use a Zoom65 with lubed Alpacas and TX stabs. Would love to try out a Kohaku!");
+        console.log("I currently use a QK75 with Cherry MX Blacks on Aluminum. Would love to try out a Kohaku!");
     }
 }
 
