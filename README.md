@@ -74,13 +74,13 @@ if (user.hobbies.includes("keyboard enthusiast")) me.currKbdSetup();
 </details>
 
 
-<details>
+<!-- <details>
 <summary>Carebnb, an Airbnb clone</summary>
 <br>
 
 [![Carebnb](https://i.imgur.com/vHobxth.jpg)](https://carebnb-2022.herokuapp.com/)
 
-</details>
+</details> -->
 
 </div>
 
