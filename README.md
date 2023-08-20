@@ -1,5 +1,26 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&size=30&pause=1000&color=2A628F&vCenter=true&width=500&lines=Hey+there,+I'm+Michael+Jung;Full+Stack+Software+Engineer;Check+out+my+projects+below!)](https://git.io/typing-svg)
 
+```go
+package main
+
+import "fmt"
+
+type SoftwareEngineer struct {
+    name      string
+    position  string
+}
+
+func (s SoftwareEngineer) Greeting() {
+    fmt.Println("Hey there! Thanks for dropping by!")
+}
+
+func main() {
+    me := SoftwareEngineer{ name: "Michael Jung", position: "Software Engineer" }
+    me.Greeting()
+}
+```
+
+<!-- JS VERSION:
 ```js
 class SoftwareEngineer {
     constructor(name, position, location) {
@@ -32,24 +53,17 @@ me.greeting();
 if (user.role === "recruiter") me.briefBackground();
 if (user.hobbies.includes("keyboard enthusiast")) me.currKbdSetup();
 ```
- 
+-->
 
 ## ⚙️ Languages & Tools
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,nodejs,react,redux,express,flask,html,css,aws,postgres,sqlite,docker,heroku,git,github)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,sequelize,react,redux,py,flask,go,html,css,pug,bootstrap,aws,postgres,sqlite,docker,heroku,postman,git)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize,react,redux,flask,pug,bootstrap,aws,postgres,sqlite,docker,heroku,postman,git)](https://skillicons.dev)
 
 </div>
-
-<!-- 
-## ✍️ Currently Learning
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=java,go,swift)](https://skillicons.dev)
-
-</div> -->
 
 
 ## 💼 Recent Projects
