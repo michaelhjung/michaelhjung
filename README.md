@@ -6,8 +6,8 @@ package main
 import "fmt"
 
 type SoftwareEngineer struct {
-    name      string
-    position  string
+    name     string
+    position string
 }
 
 func (s SoftwareEngineer) Greeting() {
@@ -15,7 +15,7 @@ func (s SoftwareEngineer) Greeting() {
 }
 
 func main() {
-    me := SoftwareEngineer{ name: "Michael Jung", position: "Software Engineer" }
+    me := SoftwareEngineer{name: "Michael Jung", position: "Software Engineer"}
     me.Greeting()
 }
 ```
