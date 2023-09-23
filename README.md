@@ -60,8 +60,8 @@ if (user.hobbies.includes("keyboard enthusiast")) me.currKbdSetup();
 <div align="center">
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,sequelize,react,redux,py,flask,go,html,css,pug,bootstrap,aws,postgres,sqlite,docker,heroku,postman,git)](https://skillicons.dev) -->
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,py,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize,react,redux,flask,pug,bootstrap,aws,postgres,sqlite,docker,heroku,postman,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize,react,redux,flask,html,css,pug,bootstrap,aws,postgres,sqlite,docker,heroku,postman,git)](https://skillicons.dev)
 
 </div>
 
