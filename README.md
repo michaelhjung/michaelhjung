@@ -20,46 +20,10 @@ func main() {
 }
 ```
 
-<!-- JS VERSION:
-```js
-class SoftwareEngineer {
-    constructor(name, position, location) {
-        this.name = name;
-        this.position = position;
-        this.location = location;
-    }
-
-    greeting() {
-        console.log("Hey there! Thanks for dropping by!");
-    }
-
-    briefBackground() {
-        console.log(
-            `I'm a University of California, Berkeley alumnus & Master's-prepared nurse turned Software Engineer,
-            based in the ${this.location}. I'd love to chat over a cup of ☕.`
-        );
-    }
-
-    currKbdSetup() {
-        console.log("I currently use a QK75 with Cherry MX Blacks on Aluminum. Would love to try out a Kohaku!");
-    }
-}
-
-
-const me = new SoftwareEngineer('Michael Jung', 'Software Engineer', 'SF Bay Area');
-me.greeting();
-
-
-if (user.role === "recruiter") me.briefBackground();
-if (user.hobbies.includes("keyboard enthusiast")) me.currKbdSetup();
-```
--->
-
 ## ⚙️ Languages & Tools
 
 <div align="center">
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,sequelize,react,redux,py,flask,go,html,css,pug,bootstrap,aws,postgres,sqlite,docker,heroku,postman,git)](https://skillicons.dev) -->
 [![My Skills](https://skillicons.dev/icons?i=js,ts,go,py)](https://skillicons.dev)<br />
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize,react,redux,flask,html,css,pug,bootstrap)](https://skillicons.dev)<br />
 [![My Skills](https://skillicons.dev/icons?i=aws,postgres,sqlite,docker,heroku,postman,git)](https://skillicons.dev)<br />
@@ -105,7 +69,7 @@ if (user.hobbies.includes("keyboard enthusiast")) me.currKbdSetup();
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jung.michaelh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-h-jung/)
-[![Angellist](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white)](https://angel.co/u/michaelhjung)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://michaelhjung.com)
     
 </div>
     
