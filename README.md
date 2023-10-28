@@ -20,12 +20,12 @@ func main() {
 }
 ```
 
-## ⚙️ Languages & Tools
+## 👨‍💻 Languages & Tools
 
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,go,py)](https://skillicons.dev)<br />
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize,react,redux,flask,html,css,pug,bootstrap)](https://skillicons.dev)<br />
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize,flask,react,redux,html,css,pug,bootstrap)](https://skillicons.dev)<br />
 [![My Skills](https://skillicons.dev/icons?i=aws,postgres,sqlite,docker,heroku,postman,git)](https://skillicons.dev)<br />
 
 </div>
