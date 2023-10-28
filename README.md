@@ -31,7 +31,7 @@ func main() {
 </div>
 
 
-## 💼 Recent Projects
+## 💼 Feature Projects
 
 <div align="center">
 
@@ -44,13 +44,13 @@ func main() {
 </details>
 
 
-<details>
+<!-- <details>
 <summary>Squeal, a Yelp clone collaborative project</summary>
 <br>
     
 [![Squeal](https://i.imgur.com/e75RInS.gif)](https://squeal-yelp.herokuapp.com/)
     
-</details>
+</details> -->
 
 
 <!-- <details>
