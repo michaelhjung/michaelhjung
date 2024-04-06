@@ -21,17 +21,21 @@ func main() {
 ```
 
 
-## 💼 Feature Projects
+## 💼 Featured Project
 
 <div align="center">
 
-<details>
+<a href="https://www.cookedup.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.imgur.com/VdQ8CuU.jpg" width="500px" />
+</a>
+
+<!-- <details>
 <summary>Hatch, a virtual escape room</summary>
 <br>
 
 [![Hatch](https://i.imgur.com/Fbw0f2h.gif)](https://escape-hatch.herokuapp.com/)
 
-</details>
+</details> -->
 
 
 <!-- <details>
@@ -59,7 +63,7 @@ func main() {
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jung.michaelh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-h-jung/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://michaelhjung.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.michaelhjung.com)
     
 </div>
 
