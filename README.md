@@ -21,7 +21,7 @@ func main() {
 ```
 
 
-## 💼 Featured Project
+## ⭐ Featured Project
 
 <div align="center">
 
