@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-h-jung/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.michaelhjung.com)
 
-currently building at <a href="https://www.claraprice.com/" target="_blank" rel="noopener noreferrer">ClaraPrice</a>
+currently building at <a href="https://www.claraprice.com/team" target="_blank" rel="noopener noreferrer">ClaraPrice</a>
 
 ## ⭐ Featured Project
 
