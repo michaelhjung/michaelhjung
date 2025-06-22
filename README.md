@@ -1,7 +1,4 @@
-<div align="center">
-
-<!-- LIGHT MODE -->
-
+<p align="center">
 <a href="mailto:jung.michaelh@gmail.com" target="_blank">
 <img src="./email.svg#gh-light-mode-only" height="36" alt="email logo" title="email" style="margin: 0 10px; opacity: 0.8;" />
 <img src="./email-dark.svg#gh-dark-mode-only" height="36" alt="email logo" title="email" style="margin: 0 10px; opacity: 0.8;" />
@@ -18,9 +15,8 @@
 <img src="./kofi.svg#gh-light-mode-only" height="36" alt="kofi logo" title="ko-fi" style="margin: 0 10px; opacity: 0.8;" />
 <img src="./kofi-dark.svg#gh-dark-mode-only" height="36" alt="kofi logo" title="ko-fi" style="margin: 0 10px; opacity: 0.8;" />
 </a>
-
-<p style="font-size: 0.9rem; color: gray;">
-    currently building at <a href="https://www.claraprice.com/team" target="_blank" rel="noopener noreferrer">ClaraPrice</a>
 </p>
 
-</div>
+<p align="center" style="font-size: 0.9rem; color: gray;">
+  currently building at <a href="https://www.claraprice.com/team" target="_blank" rel="noopener noreferrer">ClaraPrice</a>
+</p>
