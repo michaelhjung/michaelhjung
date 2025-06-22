@@ -1,20 +1,17 @@
 <p align="center">
-<a href="mailto:jung.michaelh@gmail.com" target="_blank">
-<img src="./email.svg#gh-light-mode-only" height="36" alt="email logo" title="email" style="margin: 0 10px; opacity: 0.8;" />
-<img src="./email-dark.svg#gh-dark-mode-only" height="36" alt="email logo" title="email" style="margin: 0 10px; opacity: 0.8;" />
-</a>
-<a href="https://www.linkedin.com/in/michael-h-jung/" target="_blank">
-<img src="./linkedin.svg#gh-light-mode-only" height="36" alt="linkedin logo" title="linked in" style="margin: 0 10px; opacity: 0.8;" />
-<img src="./linkedin-dark.svg#gh-dark-mode-only" height="36" alt="linkedin logo" title="linked in" style="margin: 0 10px; opacity: 0.8;" />
-</a>
-<a href="https://www.michaelhjung.com" target="_blank">
-<img src="./window.svg#gh-light-mode-only" height="36" alt="portfolio logo" title="portfolio" style="margin: 0 10px; opacity: 0.8;" />
-<img src="./window-dark.svg#gh-dark-mode-only" height="36" alt="portfolio logo" title="portfolio" style="margin: 0 10px; opacity: 0.8;" />
-</a>
-<a href="https://ko-fi.com/michaelhjung" target="_blank">
-<img src="./kofi.svg#gh-light-mode-only" height="36" alt="kofi logo" title="ko-fi" style="margin: 0 10px; opacity: 0.8;" />
-<img src="./kofi-dark.svg#gh-dark-mode-only" height="36" alt="kofi logo" title="ko-fi" style="margin: 0 10px; opacity: 0.8;" />
-</a>
+
+[![email logo (light)](./email.svg#gh-light-mode-only)](mailto:jung.michaelh@gmail.com)
+[![email logo (dark)](./email-dark.svg#gh-dark-mode-only)](mailto:jung.michaelh@gmail.com)
+
+[![linkedin logo (light)](./linkedin.svg#gh-light-mode-only)](https://www.linkedin.com/in/michael-h-jung/)
+[![linkedin logo (dark)](./linkedin-dark.svg#gh-dark-mode-only)](https://www.linkedin.com/in/michael-h-jung/)
+
+[![portfolio logo (light)](./window.svg#gh-light-mode-only)](https://www.michaelhjung.com)
+[![portfolio logo (dark)](./window-dark.svg#gh-dark-mode-only)](https://www.michaelhjung.com)
+
+[![ko-fi logo (light)](./kofi.svg#gh-light-mode-only)](https://ko-fi.com/michaelhjung)
+[![ko-fi logo (dark)](./kofi-dark.svg#gh-dark-mode-only)](https://ko-fi.com/michaelhjung)
+
 </p>
 
 <p align="center" style="font-size: 0.9rem; color: gray;">
