@@ -1,6 +1,6 @@
 <div align="center">
 
-  <a href="mailto:jung.michaelh@gmail.com" target="_blank">
+  <a href="mailto:hello@michaelhjung.com" target="_blank">
     <picture>
       <source srcset="./email-dark.svg" media="(prefers-color-scheme: dark)">
       <img src="./email.svg" height="36" width="36" alt="email" style="margin: 0 10px; opacity: 0.8;">
